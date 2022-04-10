@@ -12,7 +12,7 @@ $ jest
 
 Running above commands will - hopefully - display an output as such:
 #### Test Suites: 1 passed, 1 total
-#### Tests:       1 passed, 1 total
-#### Snapshots:   0 total
-#### Time:        1.012 s, estimated 2 s
-#### Ran all test suites.
+##### Tests:       1 passed, 1 total
+##### Snapshots:   0 total
+##### Time:        1.012 s, estimated 2 s
+##### Ran all test suites.
